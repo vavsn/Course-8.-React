@@ -1,1 +1,0 @@
-My git repository for homework of course "React"
