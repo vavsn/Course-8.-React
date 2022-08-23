@@ -4,7 +4,7 @@ import FunctionComponent from './Components/FunctionComponent';
 function App() {
   return (
     <>
-    <div className="App">
+    <div className="FunctionComponent">
       <FunctionComponent />      
     </div>
     </>
